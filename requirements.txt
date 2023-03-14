@@ -1,0 +1,7 @@
+opencv-python==4.7.0.68
+flask==2.2.2
+numpy==1.23.5
+tensorflow==2.11.0
+pyglm==2.7.0
+protobuf
+mediapipe
